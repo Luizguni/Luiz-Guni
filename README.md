@@ -21,7 +21,7 @@ Sou um desenvolvedor em transição de carreira, com mais de 10 anos de experiê
 | [Smart TV](https://github.com/Luizguni/Smart-TV) | Java | Simulação do funcionamento básico de uma TV: ligar, desligar, mudar canal, volume etc. |
 | [Trilha Java Cloud Native](https://github.com/Luizguni/TrilhaJavaCloudNative) | Java, Maven | Projeto de estudos organizado com exemplos práticos, focado em aplicações cloud native. |
 | [Projeto Spring Boot + Angular](https://github.com/Luizguni/Projeto-Spring-Boot-Angular) | Spring Boot, Angular | Projeto fullstack estruturado para aprendizado e prática de comunicação entre frontend e backend. |
-| [Desafio Técnico](https://github.com/Luizguni/Desafio-Tecnico) | Java | Projeto técnico de backend puro para avaliação de lógica e estrutura de código. |
+| [Desafio Técnico](https://github.com/Luizguni/Desafio-Tecnico) | JavaScript | Projeto técnico de backend puro para avaliação de lógica e estrutura de código. |
 
 
 
