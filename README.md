@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Luizguni/Luizguni/blob/main/assets/banner.png" alt="Banner Luiz Guni" />
+</p>
+
 # 👨‍💻 Luiz Guni
 
 Bem-vindo ao meu GitHub! Sou um desenvolvedor em transição de carreira com ampla experiência em gestão comercial e desenvolvimento de equipes de sucesso, onde atuei por mais de 10 anos e alcancei cargos de liderança em multinacionais. Agora, aplico minha visão estratégica e habilidades analíticas na criação de soluções tecnológicas modernas e eficientes.
