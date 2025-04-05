@@ -40,4 +40,6 @@ Sou um desenvolvedor em transição de carreira, com mais de 10 anos de experiê
 - Email: luizguny@gmail.com
 
 
-"Aprendendo um pouco a cada dia." - Luiz Guni
+"Aprendendo um pouco a cada dia." 
+
+          Luiz Guni
