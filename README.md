@@ -37,7 +37,7 @@ Sou um desenvolvedor em transição de carreira, com mais de 10 anos de experiê
 
 - LinkedIn: [linkedin.com/in/luizguni](https://www.linkedin.com/in/luizguni)
 - GitHub: [github.com/Luizguni](https://github.com/Luizguni)
-- Email: seuemail@email.com *(atualize com seu melhor e-mail de contato)*
+- Email: luizguny@gmail.com
 
 
 "Aprendendo um pouco a cada dia." - Luiz Guni
