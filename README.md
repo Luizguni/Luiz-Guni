@@ -1,45 +1,44 @@
-# Olá, eu sou o Luiz Guni
+# 👨‍💻 Luiz Guni
 
-Sou um desenvolvedor em transição de carreira, com mais de 10 anos de experiência em gestão comercial e agora totalmente focado no desenvolvimento de sistemas web modernos.
+Bem-vindo ao meu GitHub! Sou um desenvolvedor em transição de carreira com ampla experiência em gestão comercial e desenvolvimento de equipes de sucesso, onde atuei por mais de 10 anos e alcancei cargos de liderança em multinacionais. Agora, aplico minha visão estratégica e habilidades analíticas na criação de soluções tecnológicas modernas e eficientes.
 
+---
 
+## 🚀 Sobre Mim
+Sou apaixonado por tecnologia e estou constantemente me desafiando a aprender novas ferramentas e linguagens. Atualmente, estou focado em desenvolver aplicações completas utilizando tecnologias como:
 
-## Tecnologias e Ferramentas que estou utilizando
+- Java | Spring Boot
+- Angular | JavaScript | HTML5 | CSS3
+- MySQL | JDBC
+- Git | GitHub 
+- Maven | IntelliJ IDEA | VS Code |Eclipse
 
-- **Linguagens:** Java, JavaScript, TypeScript, HTML5, CSS3
-- **Frameworks e Plataformas:** Spring Boot, Angular, Node.js
-- **Banco de Dados:** MySQL, PostgreSQL
-- **Ferramentas:** Git, GitHub, Postman, IntelliJ IDEA, MySQL Workbench
-- **Outros:** Maven, Docker (em aprendizado), GitHub Projects
+---
 
+## 📌 Objetivo
+Meu objetivo é contribuir com projetos inovadores, utilizando minha bagagem em negócios e minha dedicação ao desenvolvimento de software. Busco oportunidades como desenvolvedor fullstack e estou sempre em busca de novos desafios.
 
+---
 
-## Projetos em destaque
+## 📁 Repositórios em Destaque
 
-| Projeto | Tecnologias | Descrição |
-|--------|-------------|-----------|
-| [Smart TV](https://github.com/Luizguni/Smart-TV) | Java | Simulação do funcionamento básico de uma TV: ligar, desligar, mudar canal, volume etc. |
-| [Trilha Java Cloud Native](https://github.com/Luizguni/TrilhaJavaCloudNative) | Java, Maven | Projeto de estudos organizado com exemplos práticos, focado em aplicações cloud native. |
-| [Projeto Spring Boot + Angular](https://github.com/Luizguni/Projeto-Spring-Boot-Angular) | Spring Boot, Angular | Projeto fullstack estruturado para aprendizado e prática de comunicação entre frontend e backend. |
-| [Desafio Técnico](https://github.com/Luizguni/Desafio-Tecnico) | JavaScript | Projeto técnico de backend puro para avaliação de lógica e estrutura de código. |
+- [Smart-TV](https://github.com/Luizguni/Smart-TV): Projeto em Java simulando funcionalidades básicas de uma Smart TV.
+- [Projeto-Spring-Boot-Angular](https://github.com/Luizguni/Projeto-Spring-Boot-Angular): Aplicação fullstack com integração entre backend Java Spring e frontend Angular.
+- [Jdbc-mysql-java](https://github.com/Luizguni/Jdbc-mysql-java): Demonstração prática de conexão entre Java e banco de dados MySQL.
+- [TrilhaJavaCloudNative](https://github.com/Luizguni/TrilhaJavaCloudNative): Estudos e implementações baseadas em Java Cloud Native com Maven.
 
+---
 
+## 📫 Contato
 
-## Objetivos atuais
+- 📧 Email: luizguny@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/luizguni](https://linkedin.com/in/luizguni)
 
-- Aprofundar conhecimentos em Spring Boot e Angular
-- Aprender e aplicar conceitos de microsserviços
-- Conquistar minha primeira vaga como desenvolvedor Java Fullstack
+---
 
+## 📜 Licença
+Este perfil e os projetos aqui apresentados estão sob a licença MIT, salvo quando indicado o contrário.
 
+---
 
-## Como me encontrar
-
-- LinkedIn: [linkedin.com/in/luizguni](https://www.linkedin.com/in/luizguni)
-- GitHub: [github.com/Luizguni](https://github.com/Luizguni)
-- Email: luizguny@gmail.com
-
-
-"Aprendendo um pouco a cada dia." 
-
-          Luiz Guni
+Obrigado por visitar meu perfil! ⭐ Se você curtiu algum projeto, deixe uma estrela!
